@@ -1,3 +1,3 @@
 const dima = 'a';
 
-const tania = 'b';
+const tania = 'c';
